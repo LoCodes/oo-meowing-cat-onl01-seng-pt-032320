@@ -1,5 +1,4 @@
-## code your solution here.
-#
+
 # Cat
 #   instantiates a new cat
 #   receives attr_accessor
